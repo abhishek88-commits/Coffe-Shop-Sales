@@ -1,6 +1,6 @@
 ## ☕ Coffee Shop Sales Analysis Dashboard
 
-🔗 **GitHub Repository**: \[*Insert your GitHub link here*]
+🔗 **GitHub Repository**:https://github.com/abhishek88-commits/Coffe-Shop-Sales
 📊 **Data Source**: [Maven Analytics – Coffee Shop Sales](https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&dataStructure=Single%20table&order=number_of_records%2Casc&search=Coffee%20shop%20sales)
 
 ---
